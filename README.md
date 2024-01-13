@@ -1,6 +1,6 @@
 # PredictiveBankChurn: Automated Customer Attrition Forecasting with H2O AutoML
 
-![Project Banner](path/to/banner/image.png)
+![Project Banner](https://github.com/sudheerpulapa/ChurnForecast-H2OAutoML/blob/main/customerchurn.png)
 
 ## Project Overview
 

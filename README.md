@@ -61,8 +61,8 @@ Assessment of Model Performance: The stacked ensemble model demonstrates promisi
 ## File Structure
 
 - `notebooks/`
-  - `basic_eda.ipynb`: Contains data ingestion and basic EDA (https://nbviewer.org/github/sudheerpulapa/ChurnForecast-H2OAutoML/blob/main/1.Bank_Customer_Churn_Prediction_EDA.ipynb)
-  - `advanced_eda_feature_engineering_model.ipynb`: Covers data ingestion, advanced EDA, feature engineering, model building, training, prediction, and evaluation using H2o AutoML.
+  - [`basic_eda.ipynb`](https://nbviewer.org/github/sudheerpulapa/ChurnForecast-H2OAutoML/blob/main/1.Bank_Customer_Churn_Prediction_EDA.ipynb): Contains data ingestion and basic EDA
+  - [`advanced_eda_feature_engineering_model.ipynb`](https://nbviewer.org/github/sudheerpulapa/ChurnForecast-H2OAutoML/blob/main/2.Churn_Pred_Feature_Eng_Model_Build.ipynb): Covers data ingestion, advanced EDA, feature engineering, model building, training, prediction, and evaluation using H2o AutoML
 
 ## Author
 

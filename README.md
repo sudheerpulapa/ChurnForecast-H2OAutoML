@@ -4,10 +4,10 @@
 
 ## Project Overview
 
-### Context
+### 🌐 Context
 Churn, a measure of customer inactivity or disengagement over time, is evident through various data facets such as the recency of account actions or shifts in the account balance.
 
-### Aim
+### 🎯 Aim
 This study seeks to achieve the following objectives:
 
 - **Identify and Visualize Factors Influencing Customer Churn:**
@@ -19,10 +19,10 @@ This study seeks to achieve the following objectives:
   - Classify customers into churn or non-churn categories.
   - Ideally, select a model that assigns a probability to churn, facilitating targeted customer service efforts.
 
-### Approach
+### 🚀 Approach
 Utilizing Artificial Neural Network (ANN) models and H2O AutoML, we aim to leverage advanced techniques for accurate predictions.
 
-### Project Timeline
+### 📅 Project Timeline
 1. **Data Analysis:**
    Thoroughly analyze the dataset to gain insights into the underlying patterns and characteristics.
 
@@ -41,11 +41,11 @@ This structured approach ensures a systematic progression from data exploration 
 
 The Sequential model is well-suited for a straightforward stack of layers in which each layer possesses precisely one input tensor and one output tensor.
 
-### When to Use the Sequential Model:
+### 🎓 When to Use the Sequential Model:
 
 - **Single Input and Single Output:** The Sequential model is appropriate when your neural network architecture follows a linear stack structure with a single input tensor and a single output tensor.
 
-### When Not to Use the Sequential Model:
+### 🚫 When Not to Use the Sequential Model:
 
 - **Multiple Inputs or Outputs:** Avoid using the Sequential model when dealing with neural networks that have multiple inputs or multiple outputs.
 - **Layers with Multiple Inputs or Outputs:** The Sequential model is not suitable if any of your layers involves multiple inputs or outputs.
@@ -68,8 +68,8 @@ Assessment of Model Performance: The stacked ensemble model demonstrates promisi
 
 **Sudheer Chowdary Pulapa**
 - [LinkedIn](https://www.linkedin.com/in/sudheer-chowdary-a2530a150/)
-- [GitHub]([https://github.com/yourgithubusername](https://github.com/sudheerpulapa))
+- [GitHub](https://github.com/sudheerpulapa)
 
 ---
 
-Feel free to customize the structure and content according to your project's specifics. This is a general template to help you present your work effectively.
+Feel free to further customize the colors and styling according to your preferences!
